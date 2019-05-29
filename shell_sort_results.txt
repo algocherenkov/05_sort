@@ -1,0 +1,234 @@
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 3 us. For 40 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 8 us. For 80 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 21 us. For 160 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 89 us. For 320 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 101 us. For 640 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 242 us. For 1280 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 538 us. For 2560 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 1400 us. For 5120 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 2772 us. For 10240 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 6044 us. For 20480 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 13897 us. For 40960 elements
+
+shell_sort_test (random input data, Frank-Lazarus Sequence): total time 31137 us. For 81920 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 3 us. For 40 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 6 us. For 80 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 13 us. For 160 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 28 us. For 320 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 61 us. For 640 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 130 us. For 1280 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 286 us. For 2560 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 582 us. For 5120 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 1357 us. For 10240 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 2710 us. For 20480 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 5794 us. For 40960 elements
+
+shell_sort_test (10% shuffled input data, Frank-Lazarus Sequence): total time 12924 us. For 81920 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 5 us. For 80 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 12 us. For 160 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 26 us. For 320 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 96 us. For 640 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 120 us. For 1280 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 280 us. For 2560 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 627 us. For 5120 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 1194 us. For 10240 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 2679 us. For 20480 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 5423 us. For 40960 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Frank-Lazarus Sequence): total time 11510 us. For 81920 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 7 us. For 80 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 17 us. For 160 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 40 us. For 320 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 96 us. For 640 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 219 us. For 1280 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 514 us. For 2560 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 1139 us. For 5120 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 2734 us. For 10240 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 6301 us. For 20480 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 13663 us. For 40960 elements
+
+shell_sort_test (random input data, Hibbard Sequence): total time 35769 us. For 81920 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 10 us. For 40 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 6 us. For 80 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 12 us. For 160 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 25 us. For 320 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 54 us. For 640 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 133 us. For 1280 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 405 us. For 2560 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 508 us. For 5120 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 1079 us. For 10240 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 2279 us. For 20480 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 4891 us. For 40960 elements
+
+shell_sort_test (10% shuffled input data, Hibbard Sequence): total time 11332 us. For 81920 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 5 us. For 80 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 11 us. For 160 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 23 us. For 320 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 49 us. For 640 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 102 us. For 1280 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 257 us. For 2560 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 465 us. For 5120 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 1007 us. For 10240 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 2440 us. For 20480 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 4675 us. For 40960 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Hibbard Sequence): total time 10268 us. For 81920 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 6 us. For 80 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 18 us. For 160 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 39 us. For 320 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 83 us. For 640 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 193 us. For 1280 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 429 us. For 2560 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 1012 us. For 5120 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 2230 us. For 10240 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 4769 us. For 20480 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 11327 us. For 40960 elements
+
+shell_sort_test (random input data, Segwick Sequence): total time 23185 us. For 81920 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 4 us. For 80 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 9 us. For 160 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 17 us. For 320 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 39 us. For 640 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 88 us. For 1280 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 170 us. For 2560 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 362 us. For 5120 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 783 us. For 10240 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 1626 us. For 20480 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 4611 us. For 40960 elements
+
+shell_sort_test (10% shuffled input data, Segwick Sequence): total time 7286 us. For 81920 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 1 us. For 20 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 2 us. For 40 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 3 us. For 80 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 7 us. For 160 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 16 us. For 320 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 35 us. For 640 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 68 us. For 1280 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 148 us. For 2560 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 333 us. For 5120 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 658 us. For 10240 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 1606 us. For 20480 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 3308 us. For 40960 elements
+
+shell_sort_test (only 5 elements shuffled in input data, Segwick Sequence): total time 6447 us. For 81920 elements

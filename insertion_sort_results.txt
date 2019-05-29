@@ -1,0 +1,78 @@
+
+insertion_sort_test (random input data): total time 1 us. For 20 elements
+
+insertion_sort_test (random input data): total time 2 us. For 40 elements
+
+insertion_sort_test (random input data): total time 9 us. For 80 elements
+
+insertion_sort_test (random input data): total time 161 us. For 160 elements
+
+insertion_sort_test (random input data): total time 123 us. For 320 elements
+
+insertion_sort_test (random input data): total time 487 us. For 640 elements
+
+insertion_sort_test (random input data): total time 2772 us. For 1280 elements
+
+insertion_sort_test (random input data): total time 8334 us. For 2560 elements
+
+insertion_sort_test (random input data): total time 31568 us. For 5120 elements
+
+insertion_sort_test (random input data): total time 133314 us. For 10240 elements
+
+insertion_sort_test (random input data): total time 622169 us. For 20480 elements
+
+insertion_sort_test (random input data): total time 2300191 us. For 40960 elements
+
+insertion_sort_test (random input data): total time 9368961 us. For 81920 elements
+
+insertion_sort_test (10% shuffled input data): total time 1 us. For 20 elements
+
+insertion_sort_test (10% shuffled input data): total time 2 us. For 40 elements
+
+insertion_sort_test (10% shuffled input data): total time 3 us. For 80 elements
+
+insertion_sort_test (10% shuffled input data): total time 6 us. For 160 elements
+
+insertion_sort_test (10% shuffled input data): total time 11 us. For 320 elements
+
+insertion_sort_test (10% shuffled input data): total time 34 us. For 640 elements
+
+insertion_sort_test (10% shuffled input data): total time 68 us. For 1280 elements
+
+insertion_sort_test (10% shuffled input data): total time 144 us. For 2560 elements
+
+insertion_sort_test (10% shuffled input data): total time 236 us. For 5120 elements
+
+insertion_sort_test (10% shuffled input data): total time 452 us. For 10240 elements
+
+insertion_sort_test (10% shuffled input data): total time 1058 us. For 20480 elements
+
+insertion_sort_test (10% shuffled input data): total time 2634 us. For 40960 elements
+
+insertion_sort_test (10% shuffled input data): total time 3758 us. For 81920 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 0 us. For 20 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 1 us. For 40 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 1 us. For 80 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 3 us. For 160 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 6 us. For 320 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 13 us. For 640 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 26 us. For 1280 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 76 us. For 2560 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 202 us. For 5120 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 415 us. For 10240 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 801 us. For 20480 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 873 us. For 40960 elements
+
+insertion_sort_test (only 5 elements shuffled in input data): total time 1767 us. For 81920 elements
